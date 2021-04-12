@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1924px;
+  width:1951px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -38,7 +38,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:-13px;
+  top:0px;
   width:1302px;
   height:1226px;
   display:flex;
@@ -2456,7 +2456,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:604px;
+  width:631px;
   height:1226px;
   background:inherit;
   background-color:rgba(218, 231, 255, 1);
@@ -2470,8 +2470,8 @@
   border-width:0px;
   position:absolute;
   left:1320px;
-  top:-13px;
-  width:604px;
+  top:0px;
+  width:631px;
   height:1226px;
   display:flex;
 }
@@ -3296,7 +3296,7 @@
   -moz-transform:rotate(180deg);
   -ms-transform:rotate(180deg);
   transform:rotate(180deg);
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei', sans-serif;
+  font-family:'Microsoft YaHei', sans-serif;
   font-weight:400;
   font-style:normal;
 }
