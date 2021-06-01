@@ -98,6 +98,10 @@
 }
 .line {
 }
+._水平线 {
+}
+._垂直线 {
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
@@ -449,5 +453,18 @@
   font-weight:500;
   font-style:normal;
   color:#FFFFFF;
+}
+._文本段落1 {
+  text-align:left;
+}
+._一级标题1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._图片 {
+  color:#000000;
 }
 textarea, select, input, button { outline: none; }
