@@ -425,7 +425,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le', sans-serif;
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -441,7 +441,7 @@
   width:1136px;
   height:842px;
   display:flex;
-  font-family:'Microsoft Tai Le', sans-serif;
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -5318,36 +5318,20 @@
 #u3844_seg0 {
   border-width:0px;
   position:absolute;
-  left:-18px;
+  left:-66px;
   top:-5px;
-  width:18px;
+  width:66px;
   height:10px;
 }
 #u3844_seg1 {
   border-width:0px;
   position:absolute;
-  left:-18px;
+  left:-66px;
   top:-5px;
   width:10px;
-  height:915px;
+  height:924px;
 }
 #u3844_seg2 {
-  border-width:0px;
-  position:absolute;
-  left:-65px;
-  top:900px;
-  width:57px;
-  height:10px;
-}
-#u3844_seg3 {
-  border-width:0px;
-  position:absolute;
-  left:-65px;
-  top:900px;
-  width:10px;
-  height:19px;
-}
-#u3844_seg4 {
   border-width:0px;
   position:absolute;
   left:-12px;
@@ -5358,8 +5342,8 @@
 #u3844_text {
   border-width:0px;
   position:absolute;
-  left:-63px;
-  top:468px;
+  left:-111px;
+  top:421px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
@@ -8366,13 +8350,13 @@
   position:absolute;
   left:-135px;
   top:949px;
-  width:77px;
+  width:76px;
   height:10px;
 }
 #u3917_seg5 {
   border-width:0px;
   position:absolute;
-  left:-68px;
+  left:-69px;
   top:949px;
   width:10px;
   height:21px;
@@ -8951,13 +8935,13 @@
   position:absolute;
   left:0px;
   top:-5px;
-  width:56px;
+  width:55px;
   height:10px;
 }
 #u3934_seg1 {
   border-width:0px;
   position:absolute;
-  left:46px;
+  left:45px;
   top:-5px;
   width:10px;
   height:111px;
@@ -8973,7 +8957,7 @@
 #u3934_text {
   border-width:0px;
   position:absolute;
-  left:1px;
+  left:0px;
   top:20px;
   width:100px;
   word-wrap:break-word;
