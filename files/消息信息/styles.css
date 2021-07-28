@@ -840,3 +840,33 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u11493_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:23px;
+  height:21px;
+}
+#u11493 {
+  border-width:0px;
+  position:absolute;
+  left:446px;
+  top:100px;
+  width:23px;
+  height:21px;
+  display:flex;
+}
+#u11493 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u11493_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
