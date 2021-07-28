@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-72px;
-  width:438px;
+  width:725px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -866,6 +866,106 @@
 }
 #u11493_text {
   border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u11494_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:181px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#FF3399;
+}
+#u11494 {
+  border-width:0px;
+  position:absolute;
+  left:616px;
+  top:254px;
+  width:181px;
+  height:28px;
+  display:flex;
+  font-family:'Microsoft Tai Le', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#FF3399;
+}
+#u11494 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u11494_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u11495 {
+  border-width:0px;
+  position:absolute;
+  left:536px;
+  top:274px;
+  width:0px;
+  height:0px;
+  font-family:'PingFang-SC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#656565;
+}
+#u11495_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:-5px;
+  top:-39px;
+  width:10px;
+  height:39px;
+}
+#u11495_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:-5px;
+  top:-39px;
+  width:180px;
+  height:10px;
+}
+#u11495_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:165px;
+  top:-39px;
+  width:10px;
+  height:19px;
+}
+#u11495_seg3 {
+  border-width:0px;
+  position:absolute;
+  left:-9px;
+  top:-12px;
+  width:18px;
+  height:18px;
+}
+#u11495_text {
+  border-width:0px;
+  position:absolute;
+  left:25px;
+  top:-42px;
+  width:100px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
